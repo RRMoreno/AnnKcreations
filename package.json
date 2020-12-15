@@ -1,0 +1,16 @@
+{
+  "name": "annkcreations",
+  "version": "1.0.0",
+  "description": "AnnK Creations ",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass --include-path scss scss/style.scss css/styles.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "author": "Roxana M Rafols Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
