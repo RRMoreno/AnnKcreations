@@ -8,8 +8,12 @@ header {
   width: 100px;
   height: 100px; }
 
-.buttonNav {
-  background: linear-gradient(to left, #b73066, #662775); }
+i.buttonNav {
+  color: #b73066; }
+
+.navbar-dark .navbar-toggler {
+  color: #b73066;
+  border-color: #b73066; }
 
 .card {
   margin-top: 2rem; }
