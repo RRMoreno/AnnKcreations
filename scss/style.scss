@@ -11,15 +11,38 @@ header {
   height: 100px;
 }
 
-
-i.buttonNav {
-  color: #b73066;
-
-}
-
 .navbar-dark .navbar-toggler {
   color: #b73066;
   border-color: #b73066;
+}
+
+div.carousel-inner {
+  .carousel-item {
+    height: 40rem;
+  }
+
+  .carousel1 {
+    background-image: url("../img/amarillos.jpg");
+    background-position: center center;
+    background-size: cover;
+
+  }
+
+  .carousel2 {
+    background-image: url("../img/ank.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .carousel3 {
+    background-image: url("../img/collar.jpg");
+    background-position: center center;
+    background-size: cover;
+  }
+}
+
+.home-demo {
+  padding: 2rem 0;
 }
 
 .card {
@@ -46,12 +69,14 @@ i.buttonNav {
   padding-top: 3rem;
   justify-content: space-between;
 }
+
 #footer {
   background: #f7f8f9;
   color: #45505b;
   font-size: 14px;
   text-align: center;
-  padding: 30px 0; }
+  padding: 30px 0;
+}
 
 #footer h3 {
   font-size: 36px;
@@ -59,16 +84,19 @@ i.buttonNav {
   position: relative;
   font-family: "Poppins", sans-serif;
   padding: 0;
-  margin: 0 0 15px 0; }
+  margin: 0 0 15px 0;
+}
 
 #footer p {
   font-size: 15px;
   font-style: italic;
   padding: 0;
-  margin: 0 0 40px 0; }
+  margin: 0 0 40px 0;
+}
 
 #footer .social-links {
-  margin: 0 0 40px 0; }
+  margin: 0 0 40px 0;
+}
 
 #footer .social-links a {
   font-size: 18px;
@@ -82,16 +110,20 @@ i.buttonNav {
   text-align: center;
   width: 36px;
   height: 36px;
-  transition: 0.3s; }
+  transition: 0.3s;
+}
 
 #footer .social-links a:hover {
   background: linear-gradient(to left, #b73066, #662775);
   color: #ffffff;
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 #footer .copyright {
-  margin: 0 0 5px 0; }
+  margin: 0 0 5px 0;
+}
 
 #footer .credits {
-  font-size: 13px; }
+  font-size: 13px;
+}
 

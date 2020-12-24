@@ -8,12 +8,30 @@ header {
   width: 100px;
   height: 100px; }
 
-i.buttonNav {
-  color: #b73066; }
-
 .navbar-dark .navbar-toggler {
   color: #b73066;
   border-color: #b73066; }
+
+div.carousel-inner .carousel-item {
+  height: 40rem; }
+
+div.carousel-inner .carousel1 {
+  background-image: url("../img/amarillos.jpg");
+  background-position: center center;
+  background-size: cover; }
+
+div.carousel-inner .carousel2 {
+  background-image: url("../img/ank.jpg");
+  background-position: center center;
+  background-size: cover; }
+
+div.carousel-inner .carousel3 {
+  background-image: url("../img/collar.jpg");
+  background-position: center center;
+  background-size: cover; }
+
+.home-demo {
+  padding: 2rem 0; }
 
 .card {
   margin-top: 2rem; }
