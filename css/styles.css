@@ -4,6 +4,9 @@ body {
 header {
   background-color: #d9c4cd !important; }
 
+.text-muted {
+  color: #ffffff !important; }
+
 .logo {
   width: 100px;
   height: 100px; }
