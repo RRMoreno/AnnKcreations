@@ -4,6 +4,12 @@ body {
 header {
   background-color: #d9c4cd !important; }
 
+section.space {
+  padding-bottom: 3rem; }
+
+.text-space {
+  padding-bottom: 1.5rem; }
+
 .textMuted {
   color: #ffffff !important; }
 
@@ -56,13 +62,25 @@ div.carousel-inner .carousel3 {
   justify-content: space-between; }
 
 .header {
-  color: #36A0FF;
+  color: #b73066;
   font-size: 27px;
   padding: 10px; }
 
 .bigicon {
   font-size: 35px;
-  color: #36A0FF; }
+  color: #b73066; }
+
+.button {
+  background-color: #b73066;
+  color: #fff; }
+
+.button:hover {
+  color: #fff;
+  background: linear-gradient(#b73066, #662775);
+  border-color: #b73066; }
+
+form fieldset div.row {
+  padding-bottom: 2rem; }
 
 #footer {
   background: #f7f8f9;

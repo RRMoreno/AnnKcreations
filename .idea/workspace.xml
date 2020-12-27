@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
+      <change afterPath="$PROJECT_DIR$/scss/variable.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -52,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CODERHOUSE/ProyectoFinal/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CODERHOUSE/ProyectoFinal/scss/variables.scss" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -87,7 +88,7 @@
       <workItem from="1608116209235" duration="599000" />
       <workItem from="1608804190215" duration="4369000" />
       <workItem from="1609061419418" duration="428000" />
-      <workItem from="1609061899313" duration="2069000" />
+      <workItem from="1609061899313" duration="6743000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608807853933</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Agregando nueva section">
+      <created>1609065182451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609065182451</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +163,7 @@
     <MESSAGE value="agregando carousel" />
     <MESSAGE value="modificando color del nav" />
     <MESSAGE value="modificando color de texto en  nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificando color de texto en  nav" />
+    <MESSAGE value="Agregando nueva section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando nueva section" />
   </component>
 </project>

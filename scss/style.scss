@@ -1,3 +1,5 @@
+@import "variable";
+
 body {
   width: 100%;
 }
@@ -6,9 +8,18 @@ header {
   background-color: #d9c4cd !important;
 }
 
-.textMuted {
-  color: #ffffff!important;
+section.space{
+  padding-bottom: 3rem;
 }
+
+.text-space{
+  padding-bottom: 1.5rem;
+}
+
+.textMuted {
+  color: #ffffff !important;
+}
+
 .logo {
   width: 100px;
   height: 100px;
@@ -74,15 +85,31 @@ div.carousel-inner {
 }
 
 .header {
-  color: #36A0FF;
+  color: $primaryColor;
   font-size: 27px;
   padding: 10px;
 }
 
 .bigicon {
   font-size: 35px;
-  color: #36A0FF;
+  color: $primaryColor;
 }
+
+.button {
+  background-color: $primaryColor;
+  color: #fff;
+}
+
+.button:hover {
+  color: #fff;
+  background: linear-gradient( $primaryColor, $secondaryColor);
+  border-color: $primaryColor;
+}
+
+form fieldset div.row{
+  padding-bottom: 2rem;
+}
+
 
 #footer {
   background: #f7f8f9;
