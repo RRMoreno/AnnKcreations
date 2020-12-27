@@ -6,7 +6,7 @@ header {
   background-color: #d9c4cd !important;
 }
 
-.text-muted {
+.textMuted {
   color: #ffffff!important;
 }
 .logo {
@@ -71,6 +71,17 @@ div.carousel-inner {
 .section {
   padding-top: 3rem;
   justify-content: space-between;
+}
+
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF;
 }
 
 #footer {
