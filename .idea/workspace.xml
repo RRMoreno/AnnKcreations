@@ -20,24 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
+      <change afterPath="$PROJECT_DIR$/views/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20- Collar Espirales.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/21- Colgantes con perlas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/22- Colgante con Perla en centro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/23- Aros verdes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/24- Pulseras griegas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/26- Brazalete Noble Lady.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/27- Collar Celta Trikel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/28- Collar Flor de Loto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/29- Collar Mariposa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/30- Collar cara de Zorro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/31- Collar Mariposa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/32- Aretes Hoja.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/33- Aros de estacion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/34- Collar y aretes Nudo Celta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/35- Aretes Margarita.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/36- Manilla triangulos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/37- Collar Celta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -111,7 +98,7 @@
       <workItem from="1609061899313" duration="7761000" />
       <workItem from="1609075213153" duration="1799000" />
       <workItem from="1609676185518" duration="2579000" />
-      <workItem from="1609678821465" duration="13461000" />
+      <workItem from="1609678821465" duration="17091000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -218,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609689139841</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="galeria finalizada">
+      <created>1609692696413</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609692696413</updated>
+    </task>
+    <task id="LOCAL-00017" summary="galeria finalizada">
+      <created>1609692736334</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609692736334</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +249,7 @@
     <MESSAGE value="Agregando imagenes a la galeria" />
     <MESSAGE value="Mas imgs" />
     <MESSAGE value="Mas imgs +" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mas imgs +" />
+    <MESSAGE value="galeria finalizada" />
+    <option name="LAST_COMMIT_MESSAGE" value="galeria finalizada" />
   </component>
 </project>
