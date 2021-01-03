@@ -20,119 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
-      <change afterPath="$PROJECT_DIR$/js/galeria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/css/unite-gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/button-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/cover-grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/icon-link32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/icon-play32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/icon-zoom32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/lightbox-arrow-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/lightbox-arrow-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/lightbox-icon-close-compact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/lightbox-icon-close-compact2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/lightbox-icon-close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-black7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader-white7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader_bright.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/loader_skype_trans.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/not_loaded.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/play-button-round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/play-button-square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/images/transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/js/jquery-11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/js/unitegallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/js/unitegallery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/release_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/alexis.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/arrows_strip_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/arrows_strip_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/button_fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/button_playpause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/button_zoom_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/button_zoom_minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/button_zoom_plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_left_hortype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_right_hortype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_arrow_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_handle_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_handle_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_handle_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/grid_handle_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/slider_arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/slider_arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/alexis/images/slider_bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrow_grid_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrow_grid_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrows_strip_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrows_strip_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrows_strip_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/arrows_strip_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/button_fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/button_playpause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_handle_black_bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_handle_black_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_handle_black_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/grid_handle_black_top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/icon_zoom_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/icon_zoom_minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/icon_zoom_plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/slider_arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/slider_arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/slider_bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_bullets_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_bullets_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_bullets_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_bullets_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_bullets_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_button_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_button_play_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/skins/default/tile_button_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/carousel/ug-theme-carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/compact/ug-theme-compact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/arrow_down_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/arrows_strip_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/arrows_strip_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/button_fullscreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/button_fullscreen_single.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/button_playpause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/images/button_playpause_single.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/ug-theme-default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/default/ug-theme-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/grid/ug-theme-grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/slider/ug-theme-slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/tiles/ug-theme-tiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/images/arrow_left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/images/arrow_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/skin-bottom-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/skin-right-no-thumb.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/skin-right-thumb.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/skin-right-title-only.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/unitegallery/themes/video/ug-theme-video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/anillo azul.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +94,7 @@
       <workItem from="1609061899313" duration="7761000" />
       <workItem from="1609075213153" duration="1799000" />
       <workItem from="1609676185518" duration="2579000" />
-      <workItem from="1609678821465" duration="3739000" />
+      <workItem from="1609678821465" duration="4987000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -278,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609678663368</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Agregando imagenes a la galeria">
+      <created>1609683435535</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609683435535</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +200,7 @@
     <MESSAGE value="Agregando nueva section" />
     <MESSAGE value="Agregando variables y estilos" />
     <MESSAGE value="agregando pagina de galeia" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregando pagina de galeia" />
+    <MESSAGE value="Agregando imagenes a la galeria" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando imagenes a la galeria" />
   </component>
 </project>
