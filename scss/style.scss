@@ -95,6 +95,15 @@ div.carousel-inner {
   color: $primaryColor;
 }
 
+.arrowGallery {
+  display: flex;
+  justify-content: flex-end;
+}
+
+div.arrowGallery a i{
+  color: $primaryColor;
+}
+
 .button {
   background-color: $primaryColor;
   color: #fff;

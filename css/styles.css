@@ -70,6 +70,13 @@ div.carousel-inner .carousel3 {
   font-size: 35px;
   color: #b73066; }
 
+.arrowGallery {
+  display: flex;
+  justify-content: flex-end; }
+
+div.arrowGallery a i {
+  color: #b73066; }
+
 .button {
   background-color: #b73066;
   color: #fff; }
