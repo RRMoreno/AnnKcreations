@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
-      <change afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/unitegallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/unitegallery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gallery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <workItem from="1609061419418" duration="428000" />
       <workItem from="1609061899313" duration="7761000" />
       <workItem from="1609075213153" duration="1799000" />
-      <workItem from="1609676185518" duration="2121000" />
+      <workItem from="1609676185518" duration="2456000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609071178624</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="agregando pagina de galeia">
+      <created>1609678481747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609678481747</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +180,7 @@
     <MESSAGE value="modificando color de texto en  nav" />
     <MESSAGE value="Agregando nueva section" />
     <MESSAGE value="Agregando variables y estilos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregando variables y estilos" />
+    <MESSAGE value="agregando pagina de galeia" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregando pagina de galeia" />
   </component>
 </project>
