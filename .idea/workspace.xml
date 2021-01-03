@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/verdes.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +94,7 @@
       <workItem from="1609061899313" duration="7761000" />
       <workItem from="1609075213153" duration="1799000" />
       <workItem from="1609676185518" duration="2579000" />
-      <workItem from="1609678821465" duration="7960000" />
+      <workItem from="1609678821465" duration="9871000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -189,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609684565622</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Mas imgs +">
+      <created>1609686934091</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609686934091</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +223,7 @@
     <MESSAGE value="agregando pagina de galeia" />
     <MESSAGE value="Agregando imagenes a la galeria" />
     <MESSAGE value="Mas imgs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mas imgs" />
+    <MESSAGE value="Mas imgs +" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mas imgs +" />
   </component>
 </project>
