@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
-      <change afterPath="$PROJECT_DIR$/views/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CODERHOUSE/portfolio/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -98,7 +96,9 @@
       <workItem from="1609061899313" duration="7761000" />
       <workItem from="1609075213153" duration="1799000" />
       <workItem from="1609676185518" duration="2579000" />
-      <workItem from="1609678821465" duration="17091000" />
+      <workItem from="1609678821465" duration="18207000" />
+      <workItem from="1610488314158" duration="131000" />
+      <workItem from="1614260586961" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609692736334</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="nueva pagina agragada aboutus">
+      <created>1609697963667</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609697963667</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +257,7 @@
     <MESSAGE value="Mas imgs" />
     <MESSAGE value="Mas imgs +" />
     <MESSAGE value="galeria finalizada" />
-    <option name="LAST_COMMIT_MESSAGE" value="galeria finalizada" />
+    <MESSAGE value="nueva pagina agragada aboutus" />
+    <option name="LAST_COMMIT_MESSAGE" value="nueva pagina agragada aboutus" />
   </component>
 </project>
