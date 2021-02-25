@@ -22,8 +22,6 @@
     <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <workItem from="1609676185518" duration="2579000" />
       <workItem from="1609678821465" duration="18207000" />
       <workItem from="1610488314158" duration="131000" />
-      <workItem from="1614260586961" duration="937000" />
+      <workItem from="1614260586961" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614261080456</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Habilitando contactos fase 1">
+      <created>1614261632423</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1614261632423</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +279,7 @@
     <MESSAGE value="nueva pagina agragada aboutus" />
     <MESSAGE value="Haciendo modificaciones de links" />
     <MESSAGE value="Descargando librerias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Descargando librerias" />
+    <MESSAGE value="Habilitando contactos fase 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Habilitando contactos fase 1" />
   </component>
 </project>
