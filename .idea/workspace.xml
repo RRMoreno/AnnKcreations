@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0fc90d49-cc59-4afa-8d4b-ccc395610bed" name="Default Changelist" comment="Excluding" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +93,7 @@
       <workItem from="1609676185518" duration="2579000" />
       <workItem from="1609678821465" duration="18207000" />
       <workItem from="1610488314158" duration="131000" />
-      <workItem from="1614260586961" duration="2044000" />
+      <workItem from="1614260586961" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="Excluding">
       <created>1608031343776</created>
@@ -251,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614262461100</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Habilitando contactos fase 2">
+      <created>1614262641396</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1614262641396</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
